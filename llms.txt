@@ -1,0 +1,35 @@
+# CleanAlta Thailand
+
+> CleanAlta Thailand is a multilingual static website for drone cleaning, drone inspection and drone 3D modeling in Thailand.
+
+## Priority pages
+- /en/
+- /en/services/
+- /en/services/drone-cleaning/
+- /en/services/drone-inspection/
+- /en/services/drone-3d-modeling/
+- /en/compliance/
+- /en/invest/
+- /en/contact/
+
+## Site summary
+CleanAlta Thailand positions drone operations as a premium corporate service line.
+The website is built around three strategic offers:
+1. Drone cleaning
+2. Drone inspection
+3. Drone 3D modeling
+
+The site uses real field photography, multilingual routing, local SEO pages, buyer-facing project pages and a static contact brief generator.
+
+## Audience
+- Asset owners
+- Hotel groups
+- Property managers
+- Industrial operators
+- Infrastructure teams
+- Strategic partners
+- Investors
+
+## Notes
+- The website is static and GitHub-ready.
+- The contact page includes email and WhatsApp brief generation without an external backend.

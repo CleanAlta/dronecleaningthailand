@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dronecleaningthailand.com/sitemap.xml
+
+# Primary language selector
+Allow: /
+
+# Static deployment package generated for CleanAlta Thailand
