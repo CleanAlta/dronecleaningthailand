@@ -7,6 +7,7 @@
 User-agent: *
 Allow: /
 Disallow: /assets/images/charte-graphique.pdf
+Disallow: /docs/
 Sitemap: https://dronecleaningthailand.com/sitemap.xml
 
 User-agent: Googlebot
