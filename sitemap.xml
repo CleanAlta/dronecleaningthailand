@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
  <url>
   <loc>https://dronecleaningthailand.com/en/</loc>
   <lastmod>2026-10-30</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-sheet-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 seconds on a Paris job site: set-up, tethered flight, spraying and rinsing</video:title><video:description>Full sequence of a tethered drone façade cleaning job in Paris.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Glass curtain wall rinsed from the top down</video:title><video:description>Drone rinsing a glass curtain wall with purified water.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>Moss treatment on a tiled roof, nobody on the roof</video:title><video:description>Drone applying a slow-acting moss treatment on a tiled roof.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>Canopy roof and the glass below it</video:title><video:description>Drone cleaning a canopy roof above a glazed entrance.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/hero-poster.webp</video:thumbnail_loc><video:title>Tethered CleanAlta drones cleaning glass façades, roofs and canopies on real job sites in France</video:title><video:description>Montage of six unedited shots from CleanAlta job sites in France: curtain walls, a metal roof, a tiled roof and a canopy cleaned by tethered drone.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/hero-1280.mp4</video:content_loc><video:publication_date>2026-10-30T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/services/</loc>
@@ -13,6 +23,12 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/facade-overview-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>The tethered drone: cable and hose from the ground unit</video:title><video:description>Tethered cleaning drone in flight, power and water supplied from the ground.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>Inside the van: osmosis unit, heater, pump and tether station</video:title><video:description>Look inside the CleanAlta van: water treatment and ground unit.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/services/facade-glass-cleaning/</loc>
@@ -20,6 +36,13 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/facade-glass-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/facade-glass-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/facade-glass-cleaning/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/research-centre-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-field-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-sheet-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Glass curtain wall rinsed from the top floor down</video:title><video:description>Drone rinsing a glass curtain wall with purified water, water sheeting down the glass.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>Curved ceramic façade followed by the drone</video:title><video:description>Drone following a curved façade where a platform cannot reach.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/services/roof-solar-cleaning/</loc>
@@ -27,6 +50,17 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/roof-solar-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/roof-solar-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/roof-solar-cleaning/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-before-after-767.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-metal-650.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-demoss-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-78-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>Moss treatment on an old tiled roof, Yvelines</video:title><video:description>Drone applying a slow-acting moss treatment on a tiled roof, nobody on the roof.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>Metal roof of an industrial building</video:title><video:description>Low-pressure cleaning of a warehouse metal roof, operator on the ground.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/references/</loc>
@@ -34,6 +68,20 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/references/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/references/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/references/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/equipment-batteries-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/supervision-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-building-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/wet-glass-operators-800.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 seconds on a Paris job site</video:title><video:description>Set-up, tethered flight, spraying and rinsing on a Paris façade.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>Working along a curved ceramic façade</video:title><video:description>Drone following a curved façade where a platform cannot reach.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/thailand-pilot-program/</loc>
@@ -41,6 +89,7 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/thailand-pilot-program/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/thailand-pilot-program/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/thailand-pilot-program/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/supervision-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/partners/</loc>
@@ -50,6 +99,8 @@
   <xhtml:link rel="alternate" hreflang="fr" href="https://dronecleaningthailand.com/fr/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://dronecleaningthailand.com/de/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/partners/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/equipment-batteries-1600.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/compliance/</loc>
@@ -64,6 +115,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/about/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/about/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/about/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-looking-up-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/contact/</loc>
@@ -78,6 +133,54 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/gallery/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/gallery/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/gallery/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-water-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/dark-glass-building-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-facade-tether-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-crew-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-building-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-white-facade-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-close-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-reflection-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-facade-sky-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-wide-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-above-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/h2o-glass-drone-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-pilot-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/wet-glass-operators-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-looking-up-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/facade-wet-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-vertical-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-atrium-inside-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-entrance-canopy-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/canopy-underside-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-after-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/blue-building-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-curves-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-78-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-ground-ready-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/van-campus-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-entrance-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/van-paris-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-office-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-drone-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-sky-office-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 seconds on a Paris job site: set-up, tethered flight, spraying and rinsing</video:title><video:description>Full sequence of a tethered drone façade cleaning job in Paris, filmed by the CleanAlta team.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Rinsing a dark glass curtain wall from the top floor down</video:title><video:description>Tethered drone rinsing a glass curtain wall with purified water, water sheeting down the glass.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>Working along a curved ceramic façade</video:title><video:description>Drone following a curved façade where a platform cannot reach.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>The tether: power and water from the ground unit</video:title><video:description>Close view of the tethered drone in flight, with its power cable and water hose.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>Cleaning a canopy roof and the glass below it</video:title><video:description>Drone cleaning a canopy roof above a glazed entrance.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>Metal roof of an industrial building</video:title><video:description>Low-pressure cleaning of a metal roof on a warehouse, with the operator on the ground.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>Moss treatment on an old tiled roof, Yvelines</video:title><video:description>Drone applying a slow-acting moss treatment on a tiled roof, nobody on the roof.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>Inside the van: water treatment, pump and ground unit</video:title><video:description>Look inside the CleanAlta van: osmosis unit, heater, pump and tether station.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/ground-crew-wide-poster.webp</video:thumbnail_loc><video:title>Ground crew and perimeter during a job</video:title><video:description>Ground operators and safety perimeter during a façade job in Paris.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/ground-crew-wide.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/cleanalta-film-30s-poster.webp</video:thumbnail_loc><video:title>30-second film: window cleaning by drone, no gondola (French captions)</video:title><video:description>Short vertical film of CleanAlta drone window cleaning, with French captions.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-film-30s.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/faq/</loc>
@@ -92,6 +195,8 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/drone-vs-rope-access-gondola/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/drone-vs-rope-access-gondola/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/drone-vs-rope-access-gondola/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-entrance-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>Curved façade: the drone follows the shape, a platform cannot</video:title><video:description>Tethered drone cleaning a curved ceramic façade in Paris.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/</loc>
@@ -99,6 +204,8 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-front-drone-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>The tethered drone: cable and hose from the ground unit</video:title><video:description>Tethered cleaning drone in flight, power and water supplied from the ground.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/bangkok/</loc>
@@ -106,6 +213,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/bangkok/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/bangkok/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/bangkok/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-water-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-vertical-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-wide-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/phuket/</loc>
@@ -113,6 +224,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/phuket/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/phuket/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/phuket/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-atrium-inside-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-pilot-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/</loc>
@@ -120,6 +235,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/pattaya-chonburi-eec/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/blue-building-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>Metal roof of an industrial building cleaned by drone</video:title><video:description>Low-pressure drone cleaning of a warehouse metal roof, operator on the ground.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/koh-samui/</loc>
@@ -127,6 +245,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/koh-samui/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/koh-samui/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/koh-samui/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>Moss treatment on an old tiled roof by drone</video:title><video:description>Drone applying a slow-acting moss treatment on a tiled roof.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/locations/chiang-mai/</loc>
@@ -134,6 +255,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/chiang-mai/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/chiang-mai/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/chiang-mai/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-wide-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-above-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-white-facade-close-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/sectors/hotels-resorts/</loc>
@@ -141,6 +266,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/hotels-resorts/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/hotels-resorts/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/hotels-resorts/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-entrance-canopy-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Rinsing a glass façade from the top floor down</video:title><video:description>Drone rinsing a glass curtain wall with purified water.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/sectors/condominiums-offices/</loc>
@@ -148,6 +276,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/condominiums-offices/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/condominiums-offices/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/condominiums-offices/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/dark-glass-building-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 seconds on a Paris job site</video:title><video:description>Set-up, tethered flight, spraying and rinsing on a Paris façade.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/sectors/hospitals-universities/</loc>
@@ -155,6 +287,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/hospitals-universities/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/hospitals-universities/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/hospitals-universities/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/research-centre-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>Inside the van: water treatment, pump and ground unit</video:title><video:description>CleanAlta van with osmosis unit, heater, pump and tether station.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/</loc>
@@ -162,6 +297,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/factories-warehouses-solar/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-metal-650.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>Cleaning a canopy roof and the glass below it</video:title><video:description>Drone cleaning a canopy roof above a glazed entrance.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/</loc>
@@ -169,6 +307,16 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-sheet-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 วินาทีในหน้างานที่ปารีส: ติดตั้ง บินแบบมีสายโยง ฉีดพ่น และล้าง</video:title><video:description>ลำดับงานทำความสะอาดผนังอาคารด้วยโดรนแบบมีสายโยงในปารีส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>ล้างผนังกระจกม่านจากบนลงล่าง</video:title><video:description>โดรนล้างผนังกระจกม่านด้วยน้ำบริสุทธิ์</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>กำจัดตะไคร่บนหลังคากระเบื้อง ไม่มีใครบนหลังคา</video:title><video:description>โดรนฉีดพ่นสารกำจัดตะไคร่แบบออกฤทธิ์ช้าบนหลังคากระเบื้อง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>หลังคากันสาดและกระจกด้านล่าง</video:title><video:description>โดรนทำความสะอาดหลังคากันสาดเหนือทางเข้ากระจก</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/hero-poster.webp</video:thumbnail_loc><video:title>โดรนแบบมีสายโยงของ CleanAlta ทำความสะอาดผนังกระจก หลังคา และกันสาด ในหน้างานจริงที่ฝรั่งเศส</video:title><video:description>วิดีโอรวมหกช็อตไม่ตัดต่อจากหน้างานของ CleanAlta ในฝรั่งเศส: ผนังกระจกม่าน หลังคาเหล็ก หลังคากระเบื้อง และกันสาด ทำความสะอาดด้วยโดรนแบบมีสายโยง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/hero-1280.mp4</video:content_loc><video:publication_date>2026-10-30T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/services/</loc>
@@ -176,6 +324,12 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/facade-overview-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>โดรนแบบมีสายโยง: สายเคเบิลและสายน้ำจากชุดอุปกรณ์ภาคพื้น</video:title><video:description>โดรนทำความสะอาดแบบมีสายโยงขณะบิน รับไฟฟ้าและน้ำจากพื้นดิน</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>ภายในรถตู้: ระบบ RO เครื่องทำน้ำอุ่น ปั๊ม และสถานีสายโยง</video:title><video:description>ภายในรถตู้ CleanAlta: ระบบบำบัดน้ำและชุดอุปกรณ์ภาคพื้น</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/services/facade-glass-cleaning/</loc>
@@ -183,6 +337,13 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/facade-glass-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/facade-glass-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/facade-glass-cleaning/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/research-centre-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-field-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-sheet-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>ล้างผนังกระจกม่านจากชั้นบนสุดลงมา</video:title><video:description>โดรนล้างผนังกระจกม่านด้วยน้ำบริสุทธิ์ น้ำไหลเป็นแผ่นลงบนกระจก</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>ผนังเซรามิกโค้งที่โดรนเคลื่อนตาม</video:title><video:description>โดรนเคลื่อนตามผนังโค้งในจุดที่รถกระเช้าเข้าไม่ถึง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/services/roof-solar-cleaning/</loc>
@@ -190,6 +351,17 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/services/roof-solar-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/services/roof-solar-cleaning/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/services/roof-solar-cleaning/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-before-after-767.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-metal-650.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-demoss-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-78-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>กำจัดตะไคร่บนหลังคากระเบื้องเก่า Yvelines</video:title><video:description>โดรนฉีดพ่นสารกำจัดตะไคร่แบบออกฤทธิ์ช้าบนหลังคากระเบื้อง ไม่มีใครบนหลังคา</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>หลังคาเหล็กของอาคารอุตสาหกรรม</video:title><video:description>ทำความสะอาดหลังคาเหล็กโกดังด้วยแรงดันต่ำ ผู้ปฏิบัติงานอยู่บนพื้น</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/references/</loc>
@@ -197,6 +369,20 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/references/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/references/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/references/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/equipment-batteries-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/supervision-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-building-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/wet-glass-operators-800.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 วินาทีในหน้างานที่ปารีส</video:title><video:description>การติดตั้ง การบินแบบมีสายโยง การฉีดพ่น และการล้างบนผนังอาคารในปารีส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>ทำงานตามแนวผนังเซรามิกโค้ง</video:title><video:description>โดรนเคลื่อนตามผนังโค้งในจุดที่รถกระเช้าเข้าไม่ถึง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/thailand-pilot-program/</loc>
@@ -204,6 +390,7 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/thailand-pilot-program/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/thailand-pilot-program/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/thailand-pilot-program/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/supervision-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/partners/</loc>
@@ -213,6 +400,8 @@
   <xhtml:link rel="alternate" hreflang="fr" href="https://dronecleaningthailand.com/fr/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://dronecleaningthailand.com/de/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/partners/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/equipment-batteries-1600.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/compliance/</loc>
@@ -227,6 +416,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/about/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/about/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/about/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-curved-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-looking-up-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/contact/</loc>
@@ -241,6 +434,54 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/gallery/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/gallery/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/gallery/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-water-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/dark-glass-building-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-facade-tether-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-crew-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/white-building-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-white-facade-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-close-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-reflection-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-facade-sky-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-wide-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-above-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/h2o-glass-drone-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-pilot-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/wet-glass-operators-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-looking-up-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/facade-wet-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-vertical-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-atrium-inside-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-entrance-canopy-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/canopy-underside-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-after-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/blue-building-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-curves-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-78-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-operator-suit-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-ground-ready-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/van-campus-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-entrance-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/van-paris-800.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-office-facade-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-drone-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-sky-office-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 วินาทีในหน้างานที่ปารีส: ติดตั้ง บินแบบมีสายโยง ฉีดพ่น และล้าง</video:title><video:description>ลำดับงานทำความสะอาดผนังอาคารด้วยโดรนแบบมีสายโยงในปารีส ถ่ายโดยทีม CleanAlta</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>ล้างผนังกระจกม่านสีเข้มจากชั้นบนสุดลงมา</video:title><video:description>โดรนแบบมีสายโยงล้างผนังกระจกม่านด้วยน้ำบริสุทธิ์ น้ำไหลเป็นแผ่นลงบนกระจก</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>ทำงานตามแนวผนังเซรามิกโค้ง</video:title><video:description>โดรนเคลื่อนตามผนังโค้งในจุดที่รถกระเช้าเข้าไม่ถึง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>สายโยง: ไฟฟ้าและน้ำจากชุดอุปกรณ์ภาคพื้น</video:title><video:description>ภาพใกล้ของโดรนแบบมีสายโยงขณะบิน พร้อมสายไฟและสายน้ำ</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>ทำความสะอาดหลังคากันสาดและกระจกด้านล่าง</video:title><video:description>โดรนทำความสะอาดหลังคากันสาดเหนือทางเข้ากระจก</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>หลังคาเหล็กของอาคารอุตสาหกรรม</video:title><video:description>ทำความสะอาดหลังคาเหล็กโกดังด้วยแรงดันต่ำ ผู้ปฏิบัติงานอยู่บนพื้นดิน</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>กำจัดตะไคร่บนหลังคากระเบื้องเก่า จังหวัด Yvelines</video:title><video:description>โดรนฉีดพ่นสารกำจัดตะไคร่แบบออกฤทธิ์ช้าบนหลังคากระเบื้อง ไม่มีใครขึ้นไปบนหลังคา</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>ภายในรถตู้: ระบบบำบัดน้ำ ปั๊ม และชุดอุปกรณ์ภาคพื้น</video:title><video:description>ภายในรถตู้ของ CleanAlta: ระบบ RO เครื่องทำน้ำอุ่น ปั๊ม และสถานีสายโยง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/ground-crew-wide-poster.webp</video:thumbnail_loc><video:title>ทีมภาคพื้นและพื้นที่กั้นระหว่างทำงาน</video:title><video:description>ผู้ปฏิบัติงานภาคพื้นและพื้นที่ปลอดภัยระหว่างงานผนังอาคารในปารีส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/ground-crew-wide.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/cleanalta-film-30s-poster.webp</video:thumbnail_loc><video:title>ภาพยนตร์สั้น 30 วินาที: ทำความสะอาดหน้าต่างด้วยโดรน ไม่ใช้กระเช้า (คำบรรยายภาษาฝรั่งเศส)</video:title><video:description>ภาพยนตร์สั้นแนวตั้งของการทำความสะอาดหน้าต่างด้วยโดรนของ CleanAlta คำบรรยายภาษาฝรั่งเศส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-film-30s.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/faq/</loc>
@@ -255,6 +496,8 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/drone-vs-rope-access-gondola/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/drone-vs-rope-access-gondola/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/drone-vs-rope-access-gondola/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pole-glass-entrance-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curved-facade-drone-poster.webp</video:thumbnail_loc><video:title>ผนังโค้ง: โดรนเคลื่อนตามรูปทรงได้ รถกระเช้าทำไม่ได้</video:title><video:description>โดรนแบบมีสายโยงทำความสะอาดผนังเซรามิกโค้งในปารีส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curved-facade-drone.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/</loc>
@@ -262,6 +505,8 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-front-drone-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/tethered-drone-sky-poster.webp</video:thumbnail_loc><video:title>โดรนแบบมีสายโยง: สายเคเบิลและสายน้ำจากชุดอุปกรณ์ภาคพื้น</video:title><video:description>โดรนทำความสะอาดแบบมีสายโยงขณะบิน รับไฟฟ้าและน้ำจากพื้นดิน</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/tethered-drone-sky.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/bangkok/</loc>
@@ -269,6 +514,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/bangkok/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/bangkok/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/bangkok/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-water-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-vertical-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-drone-wide-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/phuket/</loc>
@@ -276,6 +525,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/phuket/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/phuket/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/phuket/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-gable-wide-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-safe-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-atrium-inside-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/yellow-facade-pilot-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/pattaya-chonburi-eec/</loc>
@@ -283,6 +536,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/pattaya-chonburi-eec/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/blue-building-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/metal-roof-warehouse-poster.webp</video:thumbnail_loc><video:title>หลังคาเหล็กของอาคารอุตสาหกรรมทำความสะอาดด้วยโดรน</video:title><video:description>ทำความสะอาดหลังคาเหล็กโกดังด้วยโดรนแรงดันต่ำ ผู้ปฏิบัติงานอยู่บนพื้น</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/metal-roof-warehouse.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/koh-samui/</loc>
@@ -290,6 +546,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/koh-samui/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/koh-samui/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/koh-samui/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-moss-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-lawn-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>กำจัดตะไคร่บนหลังคากระเบื้องเก่าด้วยโดรน</video:title><video:description>โดรนฉีดพ่นสารกำจัดตะไคร่แบบออกฤทธิ์ช้าบนหลังคากระเบื้อง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/locations/chiang-mai/</loc>
@@ -297,6 +556,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/locations/chiang-mai/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/locations/chiang-mai/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/locations/chiang-mai/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/office-wide-crew-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/spray-windows-close-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-above-glass-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/drone-white-facade-close-720.webp</image:loc></image:image>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/sectors/hotels-resorts/</loc>
@@ -304,6 +567,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/hotels-resorts/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/hotels-resorts/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/hotels-resorts/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/glass-entrance-canopy-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/courtyard-top-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>ล้างผนังกระจกจากชั้นบนสุดลงมา</video:title><video:description>โดรนล้างผนังกระจกม่านด้วยน้ำบริสุทธิ์</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/sectors/condominiums-offices/</loc>
@@ -311,6 +577,10 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/condominiums-offices/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/condominiums-offices/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/condominiums-offices/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-drone-2-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/dark-glass-building-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 วินาทีในหน้างานที่ปารีส</video:title><video:description>การติดตั้ง การบินแบบมีสายโยง การฉีดพ่น และการล้างบนผนังอาคารในปารีส</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/sectors/hospitals-universities/</loc>
@@ -318,6 +588,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/hospitals-universities/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/hospitals-universities/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/hospitals-universities/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/research-centre-wide-1600.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/campus-wide-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/van-equipment-poster.webp</video:thumbnail_loc><video:title>ภายในรถตู้: ระบบบำบัดน้ำ ปั๊ม และชุดอุปกรณ์ภาคพื้น</video:title><video:description>รถตู้ CleanAlta พร้อมระบบ RO เครื่องทำน้ำอุ่น ปั๊ม และสถานีสายโยง</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/van-equipment.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/th/sectors/factories-warehouses-solar/</loc>
@@ -325,6 +598,9 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/"/>
   <xhtml:link rel="alternate" hreflang="th" href="https://dronecleaningthailand.com/th/sectors/factories-warehouses-solar/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/roof-metal-650.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/solar-panels-1600.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/canopy-roof-spray-poster.webp</video:thumbnail_loc><video:title>ทำความสะอาดหลังคากันสาดและกระจกด้านล่าง</video:title><video:description>โดรนทำความสะอาดหลังคากันสาดเหนือทางเข้ากระจก</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/canopy-roof-spray.mp4</video:content_loc><video:publication_date>2025-09-09T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/fr/</loc>
@@ -334,6 +610,13 @@
   <xhtml:link rel="alternate" hreflang="fr" href="https://dronecleaningthailand.com/fr/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://dronecleaningthailand.com/de/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/partners/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 secondes sur un chantier parisien</video:title><video:description>Installation, vol captif, pulvérisation et rinçage sur une façade à Paris.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Rinçage d&#x27;un mur-rideau du dernier étage vers le bas</video:title><video:description>Drone captif rinçant un mur-rideau à l&#x27;eau osmosée.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/cleanalta-film-30s-poster.webp</video:thumbnail_loc><video:title>Film 30 secondes : nettoyage de vitrages par drone, sans nacelle</video:title><video:description>Film court vertical CleanAlta, nettoyage de vitrages par drone.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-film-30s.mp4</video:content_loc><video:publication_date>2026-08-22T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/hero-poster.webp</video:thumbnail_loc><video:title>Drones captifs CleanAlta nettoyant vitrages, toitures et auvents sur de vrais chantiers en France</video:title><video:description>Montage de six plans bruts de chantiers CleanAlta en France : murs-rideaux, toiture métallique, toiture en tuiles et auvent nettoyés par drone captif.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/hero-1280.mp4</video:content_loc><video:publication_date>2026-10-30T00:00:00+00:00</video:publication_date></video:video>
  </url>
  <url>
   <loc>https://dronecleaningthailand.com/de/</loc>
@@ -343,5 +626,12 @@
   <xhtml:link rel="alternate" hreflang="fr" href="https://dronecleaningthailand.com/fr/"/>
   <xhtml:link rel="alternate" hreflang="de" href="https://dronecleaningthailand.com/de/"/>
   <xhtml:link rel="alternate" hreflang="x-default" href="https://dronecleaningthailand.com/en/partners/"/>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/pilot-ground-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/curtain-wall-close-720.webp</image:loc></image:image>
+  <image:image><image:loc>https://dronecleaningthailand.com/assets/img/tethered-drone-720.webp</image:loc></image:image>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/video-poster.webp</video:thumbnail_loc><video:title>98 Sekunden auf einer Pariser Baustelle</video:title><video:description>Aufbau, gefesselter Flug, Sprühen und Spülen an einer Fassade in Paris.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/cleanalta-site-paris-720p.mp4</video:content_loc><video:publication_date>2026-08-28T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/curtain-wall-rinse-poster.webp</video:thumbnail_loc><video:title>Spülen einer Glasfassade vom obersten Geschoss abwärts</video:title><video:description>Gefesselte Drohne spült eine Glasvorhangfassade mit Osmosewasser.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/curtain-wall-rinse.mp4</video:content_loc><video:publication_date>2026-08-21T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/roof-moss-treatment-poster.webp</video:thumbnail_loc><video:title>Moosbehandlung auf einem alten Ziegeldach</video:title><video:description>Drohne bringt ein langsam wirkendes Mittel gegen Moos auf ein Ziegeldach auf.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/roof-moss-treatment.mp4</video:content_loc><video:publication_date>2026-04-04T00:00:00+00:00</video:publication_date></video:video>
+  <video:video><video:thumbnail_loc>https://dronecleaningthailand.com/assets/img/hero-poster.webp</video:thumbnail_loc><video:title>Gefesselte CleanAlta-Drohnen reinigen Glasfassaden, Dächer und Vordächer auf echten Baustellen in Frankreich</video:title><video:description>Zusammenschnitt aus sechs ungeschnittenen Aufnahmen von CleanAlta-Einsätzen in Frankreich: Glasfassaden, ein Metalldach, ein Ziegeldach und ein Vordach.</video:description><video:content_loc>https://dronecleaningthailand.com/assets/media/hero-1280.mp4</video:content_loc><video:publication_date>2026-10-30T00:00:00+00:00</video:publication_date></video:video>
  </url>
 </urlset>

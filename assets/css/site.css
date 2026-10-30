@@ -37,8 +37,8 @@ strong{color:var(--navy)}
 /* buttons */
 .btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;padding:14px 24px;border-radius:10px;font-weight:700;font-size:.98rem;text-decoration:none;border:2px solid transparent;cursor:pointer;font-family:inherit;transition:background .15s,color .15s,transform .15s}
 .btn:hover{transform:translateY(-1px)}
-.btn-primary{background:var(--teal);color:#fff}
-.btn-primary:hover{background:var(--teal-d);color:#fff}
+.btn-primary{background:var(--teal-d);color:#fff}
+.btn-primary:hover{background:#005c68;color:#fff}
 .btn-outline{border-color:var(--navy);color:var(--navy);background:transparent}
 .btn-outline:hover{background:var(--navy);color:#fff}
 .btn-light{background:#fff;color:var(--navy)}
@@ -249,6 +249,44 @@ tr:last-child td{border-bottom:0}
  .hero-badge{position:static;margin-top:12px;max-width:none}
  .form-embed iframe{height:1700px}
 }
+/* hero video */
+.hero-video{position:relative;min-height:min(calc(100vh - 72px),860px);display:flex;flex-direction:column;justify-content:flex-end;color:#fff;overflow:hidden;background:#0e1f36 url("/assets/img/hero-poster.webp") center/cover no-repeat}
+.hv-media{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.hv-overlay{position:absolute;inset:0;background:linear-gradient(90deg,rgba(9,22,41,.82) 0%,rgba(9,22,41,.5) 38%,rgba(9,22,41,0) 70%),linear-gradient(0deg,rgba(9,22,41,.7) 0%,rgba(9,22,41,0) 35%)}
+.hv-content{position:relative;width:100%;padding-top:64px;padding-bottom:8px}
+.hv-text{max-width:640px}
+.hero-video h1{color:#fff;font-size:clamp(2rem,3.6vw,3.1rem);text-shadow:0 2px 24px rgba(0,0,0,.25)}
+.hero-video .lead{color:#dbe5f2;font-size:1.12rem;max-width:560px}
+.hero-video .kicker{background:rgba(255,255,255,.14);color:#9ff0f8;backdrop-filter:blur(6px);border:1px solid rgba(255,255,255,.18)}
+.hero-video .trust{color:#dbe5f2}
+.hero-video .trust li::before{color:#7fdbe6}
+.hero-video strong{color:#fff}
+.hero-video .btn-primary{box-shadow:0 10px 30px rgba(0,141,158,.45)}
+.hv-credit{font-size:.78rem;color:#aebdd1;margin:14px 0 0}
+.hv-bottom{position:relative;width:100%;display:flex;justify-content:flex-start;align-items:flex-end;gap:16px;padding-bottom:30px}
+.hv-badge{margin:0;background:rgba(255,255,255,.12);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border:1px solid rgba(255,255,255,.22);border-radius:14px;padding:12px 16px;max-width:340px;font-size:.88rem;line-height:1.45;color:#e6eef8}
+.hv-badge strong{display:block;font-size:1rem}
+.hv-toggle{width:46px;height:46px;border-radius:50%;border:1px solid rgba(255,255,255,.4);background:rgba(9,22,41,.45);cursor:pointer;display:grid;place-items:center;flex:none}
+.hv-toggle span{width:14px;height:16px;border-left:4px solid #fff;border-right:4px solid #fff;box-sizing:border-box}
+.hv-toggle[aria-pressed=true] span{width:0;height:0;border-style:solid;border-width:9px 0 9px 15px;border-color:transparent transparent transparent #fff;margin-left:4px}
+.hv-text>*{animation:hvUp .9s cubic-bezier(.2,.7,.2,1) both}
+.hv-text>*:nth-child(2){animation-delay:.12s}.hv-text>*:nth-child(3){animation-delay:.24s}.hv-text>*:nth-child(4){animation-delay:.36s}.hv-text>*:nth-child(5){animation-delay:.48s}.hv-text>*:nth-child(6){animation-delay:.6s}
+.hv-badge{animation:hvUp .9s .7s both}
+@keyframes hvUp{from{opacity:0;transform:translateY(22px)}to{opacity:1;transform:none}}
+@media (max-width:900px){
+ .hero-video{min-height:auto;background:#0e1f36}
+ .hv-media{height:min(56vh,460px);bottom:auto}
+ .hv-overlay{bottom:auto;height:min(56vh,460px);background:linear-gradient(180deg,rgba(9,22,41,0) 45%,rgba(9,22,41,.75) 82%,#0e1f36 100%)}
+ .hv-content{padding-top:calc(min(56vh,460px) - 70px)}
+ .hero-video .lead{font-size:1rem}
+ .hv-text>.kicker{display:none}
+}
+@media (max-width:620px){
+ .hv-bottom{flex-direction:row;align-items:center}
+ .hv-badge{font-size:.82rem}
+ .hero-video .trust{gap:4px 14px;font-size:.84rem}
+}
+@media (prefers-reduced-motion:reduce){.hv-text>*,.hv-badge{animation:none}}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
 
 /* video figures & gallery v2 */
