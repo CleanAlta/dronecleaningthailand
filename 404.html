@@ -29,7 +29,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" media="print" onload="this.media='all'">
 <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap"></noscript>
 
-<link rel="stylesheet" href="/assets/css/site.css?v=d92b86e6f7">
+<link rel="stylesheet" href="/assets/css/site.css?v=5919f804a2">
 <!-- Google tag (gtag.js) -->
 <script>
   (function(){var d=false;function l(){if(d)return;d=true;var s=document.createElement('script');s.async=true;s.src='https://www.googletagmanager.com/gtag/js?id=G-W3W5V675HM';document.head.appendChild(s);}
@@ -49,7 +49,8 @@
 <header class="site-header">
  <div class="wrap header-in">
   <a class="brand" href="/en/" aria-label="CleanAlta Thailand">
-   <img src="/assets/img/logo-cleanalta.webp?v=0be3e97dbe" width="480" height="186" alt="CleanAlta">
+   <img src="/assets/img/logo-cleanalta.webp?v=0be3e97dbe" width="480" height="186" alt="CleanAlta" class="brand-color">
+   <img src="/assets/img/logo-cleanalta-white.webp?v=2c7e0625d1" width="420" height="180" alt="" aria-hidden="true" class="brand-white">
   </a>
   <button class="menu-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
   <nav id="site-nav" class="site-nav" aria-label="Main">
@@ -105,8 +106,9 @@
 </div>
 <script>
 (function(){
- var b=document.querySelector('.menu-toggle'),n=document.getElementById('site-nav');
- if(b){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o);});}
+ var b=document.querySelector('.menu-toggle'),n=document.getElementById('site-nav'),bd=document.body;
+ if(b){b.addEventListener('click',function(){var o=n.classList.toggle('open');b.setAttribute('aria-expanded',o);bd.classList.toggle('menu-open',o);});}
+ if(bd.classList.contains('has-hero')){var sc=function(){bd.classList.toggle('scrolled',window.scrollY>30);};sc();window.addEventListener('scroll',sc,{passive:true});}
  var c=document.querySelector('.cookie'),s=null;
  try{s=localStorage.getItem('ca_consent');}catch(e){}
  if(c&&!s){c.hidden=false;}
