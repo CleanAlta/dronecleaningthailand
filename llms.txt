@@ -1,62 +1,29 @@
-# CleanAlta Thailand — Professional Drone Cleaning
-# Subsidiary of TELEPILOTE SAS (SIREN 938 788 510)
-# European drone leader since 2014 · EASA certified · Certibiocide
-# https://dronecleaningthailand.com
+# CleanAlta Thailand
 
-> CleanAlta Thailand provides professional drone-based building cleaning services across Thailand. We clean facades, glass, roofs and hard-to-access structures using heated pure water at 70 degrees Celsius with pressure ranges from 10 to 250 bar. Our drones cover 1,000-1,500 square metres per hour — 10 to 15 times faster than traditional scaffolding methods — at 30-50% lower cost. All operations are CAAT and NBTC compliant with THB 2,000,000 third-party liability insurance.
+> CleanAlta SAS is a French building cleaning company (founded December 2024, Maule, France; SIRET 938 788 510 00015) that cleans façades, glass, roofs and solar panels with tethered drones (under 25 kg), water-fed poles (up to 17 m) and aerial platforms (up to 40 m). It operates in France and Switzerland and is preparing a launch in Thailand. As of October 2026 it has NOT yet operated in Thailand: it is selecting pilot sites and a local partner, and will register drones and pilots with the NBTC and CAAT before any flight.
 
-## Services
-- Drone Facade and Roof Cleaning (hotels, towers, villas, industrial)
-- Drone Glass and Window Cleaning (pure water 70C, streak-free, high-rise)
-- Pure Water DI Cleaning (solar panels, glass, sensitive surfaces, zero chemicals)
-- High-Pressure Drone Cleaning (up to 250 bar, concrete, metal, industrial)
-- Low-Pressure Heritage Cleaning (10-80 bar, temples, monuments, preservation)
-- Drone Building Inspection (HD visual + thermal infrared, engineer reports)
+Key facts (verified, public):
+- Method: heated osmosed (purified) water at low pressure, no detergent on glass; slow-acting biocide or enzymatic treatments on roofs.
+- Cleaning rate: 500–800 m² per hour depending on dirt level, method and protocol.
+- Public references in France: RATP (Paris Saint-Lazare, October 2025: 400 m² of glazing in one night, no traffic interruption; RATP reports intervention time divided by five), Saint-Gobain Recherche (Aubervilliers: drone + pole, led to a two-passes-per-year contract), CHU de Toulouse Rangueil (8th-floor windows on a working hospital), CNRS ISMO Orsay ("periodic table" glass façade, drone + aerial platform). Veolia and Bouygues are also cited references.
+- Press: Le Journal du Grand Paris, France 3, Ville, Rail & Transports.
+- Founder: Vincent Goleau, professional drone pilot for 10+ years, also founder of TELEPILOTE SAS (drone training centre since 2014), which holds 10% of CleanAlta and acts as its UAS operator in France. CleanAlta is not a subsidiary of TELEPILOTE.
+- Not offered in Thailand: drone inspection, thermography, 3D modelling.
+- Contact: WhatsApp +33 6 86 50 55 71, eco@cleanalta.net. French website: https://www.cleanalta.com
 
-## Service Areas
-- Bangkok (3,000+ high-rises, 250+ hotels, CAAT VTR1 zone authorization)
-- Phuket (150+ international resorts, salt remediation, coastal properties)
-- Koh Samui (boutique resorts, luxury villas, marinas)
-- Krabi (tourism infrastructure, limestone environment)
-- Chiang Mai (heritage buildings, 40,000+ temples, low-pressure preservation)
+## Pages (English)
+- [Home](https://dronecleaningthailand.com/en/): overview, references, FAQ
+- [Services](https://dronecleaningthailand.com/en/services/): drone vs pole vs platform, water and products, process
+- [Façade & glass cleaning](https://dronecleaningthailand.com/en/services/facade-glass-cleaning/)
+- [Roof & solar panel cleaning](https://dronecleaningthailand.com/en/services/roof-solar-cleaning/)
+- [References](https://dronecleaningthailand.com/en/references/): French case studies, photos, video
+- [Thailand pilot program](https://dronecleaningthailand.com/en/thailand-pilot-program/): what pilot sites get and give
+- [Partners & investors](https://dronecleaningthailand.com/en/partners/)
+- [Safety & compliance](https://dronecleaningthailand.com/en/compliance/): Thai drone rules summary (source: thailand.go.th, 27 June 2025)
+- [About](https://dronecleaningthailand.com/en/about/)
+- [Contact](https://dronecleaningthailand.com/en/contact/)
 
-## Key Performance Metrics
-- Cost: 30-50% cheaper than scaffolding (THB 180K-450K vs 350K-800K for 20-story building)
-- Speed: 1,500 m2/hour (10-15x faster than manual methods)
-- Safety: Zero height-work, zero incidents in 10+ years
-- Water: 80% less consumption, biodegradable only, Certibiocide certified
-- Documentation: Corporate Proof Pack with HD before/after and engineer report
-
-## Target Industries
-- Hotels and Resorts (17,126 hotels, 711,729 rooms in Thailand)
-- Real Estate and Condominiums (3,000+ Bangkok high-rises)
-- Industry and Energy (factories, solar farms, wind turbines)
-- Marinas and Ports (salt corrosion prevention)
-- Heritage and Public Buildings (40,000+ temples, preservation methods)
-- Healthcare and Education (hospitals, schools, non-disruptive)
-
-## Parent Company
-- TELEPILOTE SAS, France — European drone training leader since 2014
-- EASA certified, Certibiocide accredited
-- SIREN 938 788 510 · SIRET 938 788 510 00015 · TVA FR30 938 788 510
-- 4.9/5 Google Reviews (63+ verified via Trustindex)
-- Websites: telepilote.org · telepilote.store · cleanalta.com
-
-## Contact
-- Email: eco@cleanalta.net
-- WhatsApp: +33 6 86 50 55 71
-- LINE: @cleanalta
-- Switzerland: +41 79 933 65 23
-- Address: 2 Ruelle du Presbytere, 78580 Maule, France
-
-## Investment Opportunity
-- Addressable market: THB 280M-1.16B annually
-- Zero dedicated drone cleaning competition in Thailand
-- Seeking strategic investors and operational partners
-- Contact: eco@cleanalta.net (confidential)
-
-## Languages
-- English: /en/
-- Thai: /th/
-- French: /fr/
-- German: /de/
+## Other languages
+- Thai: https://dronecleaningthailand.com/th/ (same structure)
+- French partner page: https://dronecleaningthailand.com/fr/
+- German partner page: https://dronecleaningthailand.com/de/
