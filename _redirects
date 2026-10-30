@@ -1,5 +1,5 @@
 # Old URLs (sites before the October 2026 rebuild) -> closest new page
-/es/* /en/ 301
+# Static rules first: Cloudflare treats every rule after a splat as dynamic (100 max).
 /de/blog /de/ 301
 /de/blog/ /de/ 301
 /de/blog/3d-modellierung-fuer-anlagenbetreiber /de/ 301
@@ -500,3 +500,4 @@
 /th/telepilote/ /th/about/ 301
 /th/zones /th/thailand-pilot-program/ 301
 /th/zones/ /th/thailand-pilot-program/ 301
+/es/* /en/ 301
