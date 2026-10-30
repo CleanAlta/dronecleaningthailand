@@ -25,8 +25,9 @@ strong{color:var(--navy)}
 .site-header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.96);backdrop-filter:saturate(1.4) blur(8px);border-bottom:1px solid var(--line)}
 .header-in{display:flex;align-items:center;gap:20px;min-height:72px}
 .brand img{width:150px;height:auto}
-.site-nav{display:flex;align-items:center;gap:22px;margin-left:auto;font-size:.92rem;font-weight:600}
-.site-nav>a:not(.btn){color:var(--ink);text-decoration:none;padding:6px 0;border-bottom:2px solid transparent}
+.site-nav{display:flex;align-items:center;gap:16px;margin-left:auto;font-size:.88rem;font-weight:600}
+.site-nav>a:not(.btn){color:var(--ink);text-decoration:none;padding:6px 0;border-bottom:2px solid transparent;white-space:nowrap}
+.nav-cta{white-space:nowrap}
 .site-nav>a:not(.btn):hover,.site-nav>a[aria-current=page]{color:var(--teal-d);border-bottom-color:var(--teal)}
 .lang{display:flex;gap:2px;font-size:.78rem;border:1px solid var(--line);border-radius:999px;padding:3px}
 .lang a{padding:3px 8px;border-radius:999px;text-decoration:none;color:var(--muted)}
@@ -186,7 +187,7 @@ tr:last-child td{border-bottom:0}
 
 /* footer */
 .site-footer{background:var(--navy-2);color:#b9c6d9;padding:56px 0 20px;font-size:.92rem;margin-top:0}
-.footer-grid{display:grid;grid-template-columns:1.6fr 1fr 1fr 1.2fr;gap:36px}
+.footer-grid{display:grid;grid-template-columns:1.5fr 1fr 1fr .9fr 1.1fr;gap:30px}
 .footer-logo{width:160px;margin-bottom:14px}
 .site-footer h2{color:#fff;font-size:.95rem;margin-bottom:12px}
 .site-footer a{display:block;color:#d6e0ee;text-decoration:none;padding:3px 0}
@@ -210,11 +211,11 @@ tr:last-child td{border-bottom:0}
 .muted{color:var(--muted)}
 .small{font-size:.86rem}
 
-@media (max-width:1060px){
- .site-nav{gap:14px;font-size:.86rem}
+@media (max-width:1180px){
+ .site-nav{gap:11px;font-size:.82rem}
  .brand img{width:128px}
 }
-@media (max-width:960px){
+@media (max-width:1020px){
  .menu-toggle{display:block}
  .site-nav{display:none;position:absolute;left:0;right:0;top:100%;background:#fff;flex-direction:column;align-items:stretch;padding:12px 20px 22px;gap:4px;border-bottom:1px solid var(--line);box-shadow:var(--shadow)}
  .site-nav.open{display:flex}
@@ -249,3 +250,36 @@ tr:last-child td{border-bottom:0}
  .form-embed iframe{height:1700px}
 }
 @media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+/* video figures & gallery v2 */
+figure.video{margin:0}
+figure.video figcaption{font-size:.85rem;color:var(--muted);padding:8px 2px 0}
+.video.vertical{aspect-ratio:auto;max-width:360px;margin:0 auto;background:transparent;box-shadow:none}
+.video.vertical video{border-radius:18px;box-shadow:var(--shadow);aspect-ratio:9/16}
+.video-grid{display:grid;grid-template-columns:repeat(2,1fr);gap:24px}
+.video-grid .video{aspect-ratio:auto}
+.video-grid video{aspect-ratio:16/9}
+.related ul{list-style:none;padding:0;display:flex;flex-wrap:wrap;gap:10px;margin:0}
+.related li{margin:0}
+.related a{display:inline-block;background:#fff;border:1px solid var(--line);border-radius:999px;padding:8px 16px;text-decoration:none;font-weight:600;font-size:.9rem;color:var(--navy)}
+.related a:hover{border-color:var(--teal);color:var(--teal-d)}
+.related h2{font-size:1.1rem;margin-bottom:14px}
+.related.section{padding:36px 0}
+.press{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.press a{display:block;background:#fff;border:1px solid var(--line);border-radius:var(--radius);padding:20px;text-decoration:none;color:var(--ink)}
+.press a:hover{box-shadow:var(--shadow)}
+.press strong{display:block;color:var(--teal-d);font-size:.8rem;text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+.gallery-3{grid-template-columns:repeat(3,1fr)}
+.gallery-3 .wide{grid-column:span 2}
+.answer{background:#fff;border:1px solid var(--line);border-left:4px solid var(--teal);border-radius:var(--radius);padding:20px 24px;font-size:1.05rem;margin:0 0 28px}
+.answer p:last-child{margin:0}
+.sticky-cta{display:none}
+@media (max-width:620px){
+ .video-grid,.press{grid-template-columns:1fr}
+ .gallery-3{grid-template-columns:1fr 1fr}
+ .sticky-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:55;background:#fff;border-top:1px solid var(--line);padding:10px 12px;gap:10px;padding-right:84px}
+ .sticky-cta .btn{flex:1;padding:12px 10px;font-size:.9rem;width:auto}
+ body{padding-bottom:70px}
+ .wa-fab{bottom:10px}
+ .cookie{bottom:80px}
+}
