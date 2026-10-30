@@ -206,7 +206,7 @@
  if(bd.classList.contains('has-hero')){var sc=function(){bd.classList.toggle('scrolled',window.scrollY>30);};sc();window.addEventListener('scroll',sc,{passive:true});}
  var c=document.querySelector('.cookie'),s=null;
  try{s=localStorage.getItem('ca_consent');}catch(e){}
- if(c&&!s){setTimeout(function(){c.hidden=false;},document.body.classList.contains('has-hero')?3200:600);}
+ if(c&&!s){var sh=function(){c.hidden=false;};if(document.body.classList.contains('has-hero')){window.addEventListener('scroll',sh,{once:true,passive:true});setTimeout(sh,12000);}else{setTimeout(sh,600);}}
  document.querySelectorAll('[data-consent]').forEach(function(x){x.addEventListener('click',function(){
   var v=x.getAttribute('data-consent');try{localStorage.setItem('ca_consent',v);}catch(e){}
   if(v==='granted'&&window.gtag){gtag('consent','update',{'analytics_storage':'granted'});}
