@@ -352,7 +352,7 @@ figure.video figcaption{font-size:.85rem;color:var(--muted);padding:8px 2px 0}
 @media (max-width:620px){
  .video-grid,.press{grid-template-columns:1fr}
  .gallery-3{grid-template-columns:1fr 1fr}
- .sticky-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:55;background:#fff;border-top:1px solid var(--line);padding:10px 12px;gap:10px;padding-right:84px}
+ .sticky-cta{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:55;background:#fff;border-top:1px solid var(--line);padding:10px 12px;gap:10px;padding-right:12px}
  .sticky-cta .btn{flex:1;padding:12px 10px;font-size:.9rem;width:auto}
  body{padding-bottom:70px}
  .wa-fab{bottom:10px}

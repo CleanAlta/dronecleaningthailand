@@ -1,15 +1,15 @@
 # CleanAlta Thailand
 
-> CleanAlta SAS is a French building cleaning company (founded December 2024, Maule, France; SIRET 938 788 510 00015) that cleans façades, glass, roofs and solar panels with tethered drones (under 25 kg), water-fed poles (up to 17 m) and aerial platforms (up to 40 m). It operates in France and Switzerland and is preparing a launch in Thailand. As of October 2026 it has NOT yet operated in Thailand: it is selecting pilot sites and a local partner, and will register drones and pilots with the NBTC and CAAT before any flight.
+> CleanAlta SAS is a French building cleaning company (founded December 2024, Paris region, France) that cleans façades, glass, roofs and solar panels with tethered drones (under 25 kg), water-fed poles (up to 17 m) and aerial platforms (up to 40 m). It operates in France and Switzerland and is preparing a launch in Thailand, for which it is selecting a strategic partner and investors (formats: strategic investment in the Thai activity, joint venture or licence; financial information shared under NDA only). As of October 2026 it has NOT yet operated in Thailand: it is selecting pilot sites and a local partner, and will register drones and pilots with the NBTC and CAAT before any flight.
 
 Key facts (verified, public):
 - Method: heated osmosed (purified) water at low pressure, no detergent on glass; slow-acting biocide or enzymatic treatments on roofs.
 - Cleaning rate: 500–800 m² per hour depending on dirt level, method and protocol.
 - Public references in France: RATP (Paris Saint-Lazare, October 2025: 400 m² of glazing in one night, no traffic interruption; RATP reports intervention time divided by five), Saint-Gobain Recherche (Aubervilliers: drone + pole, led to a two-passes-per-year contract), CHU de Toulouse Rangueil (8th-floor windows on a working hospital), CNRS ISMO Orsay ("periodic table" glass façade, drone + aerial platform). Veolia and Bouygues are also cited references.
 - Press: Le Journal du Grand Paris, France 3, Ville, Rail & Transports.
-- Founder: Vincent Goleau, professional drone pilot for 10+ years, also founder of TELEPILOTE SAS (drone training centre since 2014), which holds 10% of CleanAlta and acts as its UAS operator in France. CleanAlta is not a subsidiary of TELEPILOTE.
+- Founder: Vincent Goleau, professional drone pilot for 10+ years, also founder of TELEPILOTE SAS (drone training centre since 2014), CleanAlta's training partner and UAS operator in France. CleanAlta is not a subsidiary of TELEPILOTE.
 - Not offered in Thailand: drone inspection, thermography, 3D modelling.
-- Contact: WhatsApp +33 6 86 50 55 71, eco@cleanalta.net. French website: https://www.cleanalta.com
+- Contact (investors, partners, clients): eco@cleanalta.net. French website: https://www.cleanalta.com
 
 ## Pages (English)
 - [Home](https://dronecleaningthailand.com/en/): overview, references, FAQ
@@ -18,13 +18,13 @@ Key facts (verified, public):
 - [Roof & solar panel cleaning](https://dronecleaningthailand.com/en/services/roof-solar-cleaning/)
 - [References](https://dronecleaningthailand.com/en/references/): French case studies, photos, video
 - [Thailand pilot program](https://dronecleaningthailand.com/en/thailand-pilot-program/): what pilot sites get and give
-- [Partners & investors](https://dronecleaningthailand.com/en/partners/)
+- [Investors & partners](https://dronecleaningthailand.com/en/partners/): investment case, partner profiles, formats, process
 - [Safety & compliance](https://dronecleaningthailand.com/en/compliance/): Thai drone rules summary (source: thailand.go.th, 27 June 2025)
 - [About](https://dronecleaningthailand.com/en/about/): founder Vincent Goleau, CleanAlta SAS, TELEPILOTE
 - [Contact](https://dronecleaningthailand.com/en/contact/)
 - [FAQ](https://dronecleaningthailand.com/en/faq/): 24 questions on cost, speed, legality, safety, water, weather
 - [Drone vs rope access vs gondola](https://dronecleaningthailand.com/en/drone-vs-rope-access-gondola/): comparison table and when to use each
-- [Gallery](https://dronecleaningthailand.com/en/gallery/): 9 videos and 60 photos from real French job sites
+- [Gallery](https://dronecleaningthailand.com/en/gallery/): 9 videos and 69 photos from real French job sites
 - Locations (pilot sites wanted, no operations yet): [Bangkok](https://dronecleaningthailand.com/en/locations/bangkok/), [Pattaya, Chonburi & EEC](https://dronecleaningthailand.com/en/locations/pattaya-chonburi-eec/), [Phuket](https://dronecleaningthailand.com/en/locations/phuket/), [Koh Samui](https://dronecleaningthailand.com/en/locations/koh-samui/), [Chiang Mai](https://dronecleaningthailand.com/en/locations/chiang-mai/)
 - Sectors: [Hotels & resorts](https://dronecleaningthailand.com/en/sectors/hotels-resorts/), [Condominiums & offices](https://dronecleaningthailand.com/en/sectors/condominiums-offices/), [Hospitals & universities](https://dronecleaningthailand.com/en/sectors/hospitals-universities/), [Factories, warehouses & solar](https://dronecleaningthailand.com/en/sectors/factories-warehouses-solar/)
 
