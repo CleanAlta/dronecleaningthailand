@@ -359,3 +359,13 @@ figure.video figcaption{font-size:.85rem;color:var(--muted);padding:8px 2px 0}
  .wa-fab{bottom:10px}
  .cookie{bottom:80px}
 }
+.byline{display:flex;flex-wrap:wrap;gap:6px 18px;font-size:.88rem;color:var(--muted);margin:-6px 0 22px}
+.byline strong{color:var(--ink);font-weight:600}
+.facts{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px;margin:0 0 28px;padding:0;list-style:none}
+.facts li{background:var(--bg-2);border:1px solid var(--line);border-radius:10px;padding:14px 16px}
+.facts li span{display:block;font-size:.8rem;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+.facts li strong{font-size:1.15rem;color:var(--navy)}
+.glossary dt{font-weight:700;color:var(--navy);margin-top:18px}
+.glossary dd{margin:4px 0 0}
+.toc{background:var(--bg-2);border-radius:var(--radius);padding:16px 22px;margin:0 0 28px;font-size:.95rem}
+.toc ol{margin:6px 0 0;padding-left:20px}
