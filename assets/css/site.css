@@ -262,7 +262,7 @@ body.has-hero:not(.scrolled):not(.menu-open) .lang a[aria-current]{background:#f
 body.has-hero:not(.scrolled):not(.menu-open) .menu-toggle{background:rgba(255,255,255,.16);border:1px solid rgba(255,255,255,.4);backdrop-filter:blur(8px)}
 body.has-hero:not(.scrolled):not(.menu-open) .site-header{background:linear-gradient(180deg,rgba(9,22,41,.55),rgba(9,22,41,0))}
 body.has-hero.scrolled .site-header,body.has-hero.menu-open .site-header{background:rgba(255,255,255,.97);border-bottom-color:var(--line);box-shadow:0 4px 20px rgba(9,22,41,.08)}
-.hero-video{position:relative;min-height:100vh;min-height:100svh;display:flex;flex-direction:column;justify-content:flex-end;color:#fff;overflow:hidden;background:#0b1b31 url("/assets/img/hero-poster.webp?v=66a00d42dd") center/cover no-repeat;isolation:isolate}
+.hero-video{position:relative;min-height:100vh;min-height:100svh;display:flex;flex-direction:column;justify-content:flex-end;color:#fff;overflow:hidden;background:#0b1b31 url("/assets/img/hero-poster.webp?v=d101f9740e") center/cover no-repeat;isolation:isolate}
 .hv-media{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2;animation:hvZoom 16s ease-in-out infinite alternate;transform-origin:60% 40%}
 @keyframes hvZoom{from{transform:scale(1)}to{transform:scale(1.07)}}
 .hv-overlay{position:absolute;inset:0;z-index:-1;background:radial-gradient(120% 90% at 85% 30%,rgba(9,22,41,0) 0%,rgba(9,22,41,.35) 55%,rgba(9,22,41,.75) 100%),linear-gradient(90deg,rgba(9,22,41,.85) 0%,rgba(9,22,41,.45) 45%,rgba(9,22,41,0) 75%),linear-gradient(0deg,rgba(9,22,41,.85) 0%,rgba(9,22,41,0) 38%)}
